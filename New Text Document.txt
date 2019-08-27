@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* Testing git functionality */
 int main () {
 
    printf ("Hello World\n");
