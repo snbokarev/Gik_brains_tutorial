@@ -4,6 +4,7 @@
 int main () {
 
    printf ("Hello World\n");
+   printf ("Testing\n");
    return 0;
 
 
