@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /* Testing git functionality */
-int main () {
+int main () { /*Beginning*/
 
    printf ("Hello World\n");
    printf ("Testing\n");
@@ -9,4 +9,4 @@ int main () {
 
 
 
-}
+} /*End*/
